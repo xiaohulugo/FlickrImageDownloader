@@ -15,7 +15,8 @@ sudo python setup.py install
 ```
 Usage:
 ---
-1. apply a Flickr API keys
+1. apply a Flickr API keys from here
+https://github.com/alexis-mignon/python-flickr-api/wiki/Flickr-API-Keys-and-Authentication
 2. run the python script "download_geo_images.py" in fold "samples", remember to replace the "api_key" and "api_secret" with your own 
 3. modify the "Photo.search()" function for your own application
 
